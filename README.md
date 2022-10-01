@@ -1,1 +1,3 @@
 # Machine-Learning-Project
+
+Our model predits the price of the land using the BOSTON HOUSING DATASET....
